@@ -2,9 +2,6 @@
 
 This repository contains:
 
-1. Process Notebook ("Process Book.ipynb")
-2. Raw Data Folders
-
 ## Python Libraries Used
 
 This project was built using a distribution of Anaconda running Python 2.7.
